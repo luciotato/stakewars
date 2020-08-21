@@ -257,6 +257,7 @@ _in alphabetic order by staking pool name. Thank you [Figment Network](https://h
 | <img src="https://i.loli.net/2020/07/31/guxsk2r3OTbi5t9.png" width="40"> | [Blockpower](https://www.blockpower.capital) | Genius stake the world | [@blockpower.betanet](https://explorer.betanet.near.org/accounts/blcokpower.betanet) | 1% | US | | |
 | <img src="https://kytzu.com/assets/images/logo%202.png"> | Kytzu | Validator infrastructure maintained by cats  | @kytzu.betanet | 10% | RO | | |
 | <img src="https://github.com/syncnode-srl/syncnode/blob/master/logo2.jpeg"> | syncnode | validating from the early days of PoS  | @syncnode.betanet | 10% | RO | | |
+| <img src="http://http://www.tecnogob.com/Logo-cuadrado.png"> | luckystacker | Technology experts from the south  | @luciotato.betanet | 8% | RO | | |
 
 
 Notes:
